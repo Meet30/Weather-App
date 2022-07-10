@@ -1,10 +1,9 @@
 # Weather-App
-+ This is a basic weather web app using vanilla JavaScript and fetch API. It also contains some amount of BootStrap 5
++ This is a basic weather web app using vanilla JavaScript and fetch API
 
 # Technology used
 + HTML5
 + CSS
-+ BootStrap 5
 + Vanilla JavaScript
 
 # Installation
